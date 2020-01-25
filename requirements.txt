@@ -1,0 +1,7 @@
+Django
+psycopg2
+psycopg2-binary
+Unipath
+django-widget-tweaks
+djangorestframework
+django-rest-auth
